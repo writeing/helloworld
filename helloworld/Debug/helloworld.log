@@ -1,0 +1,21 @@
+﻿生成启动时间为 2016/4/15 16:44:57。
+     1>项目“C:\Users\yh\Desktop\wxc\helloworld\helloworld\helloworld.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\helloworld.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt helloworldDlg.cpp
+         helloworldDlg.cpp
+     1>c:\users\yh\desktop\wxc\helloworld\helloworld\helloworlddlg.cpp(179): warning C4101: “nRes”: 未引用的局部变量
+       Link:
+         D:\vs2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yh\Desktop\wxc\helloworld\Debug\helloworld.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\vs2012\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"C:\Users\yh\Desktop\wxc\helloworld\Debug\helloworld.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yh\Desktop\wxc\helloworld\Debug\helloworld.lib" /MACHINE:X86 Debug\helloworld.res
+         Debug\AddSheet.obj
+         Debug\helloworld.obj
+         Debug\helloworldDlg.obj
+         Debug\mydialog.obj
+         Debug\Page.obj
+         Debug\PageForm.obj
+         Debug\stdafx.obj
+         helloworld.vcxproj -> C:\Users\yh\Desktop\wxc\helloworld\Debug\helloworld.exe
+     1>已完成生成项目“C:\Users\yh\Desktop\wxc\helloworld\helloworld\helloworld.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.57
